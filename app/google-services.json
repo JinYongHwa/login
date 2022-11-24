@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "110324658802",
+    "project_id": "login-eb75e",
+    "storage_bucket": "login-eb75e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110324658802:android:2ce9f1cf793ab9e1ca88eb",
+        "android_client_info": {
+          "package_name": "kr.ac.mjc.ict2007261051.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110324658802-vfic9pbn25e175njq626v83124chq50a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNUkoceCw6pPM592t9dkrFRlz1mXV00IY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110324658802-vfic9pbn25e175njq626v83124chq50a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
